@@ -32,6 +32,11 @@ The API will be available at `http://localhost:8080`.
 - `GET /events?account={accountId}`
 - `GET /accounts/{accountId}/balance`
 
+## Swagger API documentation
+
+- Swagger UI: `http://localhost:8080/swagger-ui/index.html`
+- OpenAPI JSON: `http://localhost:8080/v3/api-docs`
+
 ## Tests
 
 Run tests with:
